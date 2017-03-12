@@ -1,5 +1,18 @@
 # plugin.video.saan.tv
 
+#Hrvatski / Croatian
+Video plugin za Saan.tv 
+
+Prilikom prvog pokretanja bit ce prikazana lista kanala ali nece raditi dok ne unesete username/password
+
+###Todo
+- dodati provjeru za username/password i prikazati poruku 
+- optimizirati za brze ucitavanje
+- napraviti drugaciji raspored kanala
+- naci/napraviti bolje slike za kanale
+
+
+#English
 This is video plugin for Saan.tv
 
 On first run you will have list of all channels
