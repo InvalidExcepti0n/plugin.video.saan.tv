@@ -7,7 +7,7 @@ On first run you will have list of all channels
 ##THIS WILL NOT WORK
 * if you don't have username / password from http://saan.tv/
 
-you need after instalation enter username/password to get it working 
+you need after installation enter username/password to get it working 
 
 Any bug report/improvments are welcome
 
