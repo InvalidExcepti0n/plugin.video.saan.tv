@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon	id="plugin.video.saan.tv"
+	version="0.1.7"
+	name="SaanTV Plugin"
+	provider-name="InvalidExcepti0n">
+<requires>
+  <import addon="xbmc.python" version="2.14.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">SaanTV Video Plugin</summary>
+  <description lang="en">Video plugin za Kodi Media centar koji omogucava streaming HR kanala sa Saan.TV platforme.</description>
+  <disclaimer lang="en">disclamer</disclaimer>
+</extension>
+</addon>

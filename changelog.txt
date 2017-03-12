@@ -1,0 +1,9 @@
+[B]Version 0.1.7[/B]
+- Mogucnost gledanja svih kanala sa liste
+
+[B]Version 0.1.4[/B]
+- Dodana lista kanala
+- Dodana mogucnos spremanja username/pass u Postavke plugina
+
+[B]Version 0.1.0[/B]
+- Initial version

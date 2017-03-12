@@ -1,0 +1,5 @@
+<settings>
+	<setting id="passBox_enabled" type="bool" label="SaanTV account" default="False"/>
+	<setting id="saantv_user" type="text" label="    Username" enable="eq(-1,true)" default=""/>
+	<setting id="saantv_password" type="text" label="    Password" enable="eq(-2,true)" default="" option="hidden"/>
+</settings>
